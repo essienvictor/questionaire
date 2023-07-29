@@ -1,2 +1,2 @@
-# questionaire
-Created with HTML, CSS and Javascript
+# Questionaire
+Created with HTML, CSS and Javascript.
